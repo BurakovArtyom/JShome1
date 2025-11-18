@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1cc5975-8a42-40fa-bc52-2bd3a6190cc0" name="Changes" comment="less1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson-01/03.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-01/03.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.01.js.executor": "Run",
+    "Node.js.02.js.executor": "Run",
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -90,7 +92,7 @@
       <workItem from="1762966926139" duration="2078000" />
       <workItem from="1762977441072" duration="40000" />
       <workItem from="1763482257740" duration="851000" />
-      <workItem from="1763483195499" duration="2600000" />
+      <workItem from="1763483195499" duration="3313000" />
     </task>
     <task id="LOCAL-00001" summary="less1">
       <option name="closed" value="true" />
