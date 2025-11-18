@@ -1,5 +1,8 @@
 let sum = 0;
-while (let i = 1; i <= 20; i++) {
+let i = 1;
+
+while (i <= 20) {
     sum += i;
+    i++;
 }
 console.log(sum);
